@@ -20,11 +20,21 @@ The text file contains tuples in the form:
 (target class,Tweet id,Tweet’s text)
 
 
- # Class Description:<br>
+ #### Tweets given in the file are classified into following fields:<br>
 <ol>
 <li>0: The tweet doesn't talk about any resources needed or available (Irrelevant tweets)
 
 <li>1: The tweet mentions a resource that is needed (Need Tweets)
 
 <li>2: The tweet mentions a resource that is available (Availability tweets)
-  </ol>
+ </ol>
+ 
+<h3><b>Following Models are trained on the given data</b></h3>
+<ol>
+    <li>LogisticRegression</li>
+    <li>KNN (K Nearest Neighbor)</li>
+    <li>SVM (Support Vector Machine) With Linear and RBF Kernel</li>
+    <li>Naive Bayes</li>
+    <li>Decision Tree</li>
+    <li>Random Forest</li>
+</ol>
