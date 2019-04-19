@@ -10,11 +10,12 @@ The Twitter Classification Of Nepal Earthquake Tweets dataset consists of 18226 
   <li>TweetId: Unique Id</li>
   <li>Tweet: Text data of Tweets</li>
  </ol>
+
 # Dataset:
 Dataset can be download from below given link-
 https://drive.google.com/file/d/18c33mwHSkcukt5UiB9TMphCQBzyIokCI/view?usp=sharing/ 
 
-### The dataset is in the form of a txt file:
+The dataset is in the form of a txt file:
 The text file contains tuples in the form:
 (target class,Tweet id,Tweet’s text)
 
