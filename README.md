@@ -6,11 +6,13 @@ The Twitter Classification Of Nepal Earthquake Tweets dataset consists of 18226 
 <ol>
   <li>TweetClass: Class of Tweet Type(Irrelevant,Need,Availability)</li>
   <li>TweetId: Unique Id</li>
-  <li>Tweet: Text data of Tweets<li>
+  <li>Tweet: Text data of Tweets</li>
  </ol>
 # Class Description:
-0: The tweet doesn't talk about any resources needed or available (Irrelevant tweets)<br>
+<ol>
+<li>0: The tweet doesn't talk about any resources needed or available (Irrelevant tweets)
 
-1: The tweet mentions a resource that is needed (Need Tweets)<br>
+<li>1: The tweet mentions a resource that is needed (Need Tweets)
 
-2: The tweet mentions a resource that is available (Availability tweets)<br>
+<li>2: The tweet mentions a resource that is available (Availability tweets)
+  </ol>
