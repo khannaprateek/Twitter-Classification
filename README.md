@@ -2,7 +2,7 @@
 
 
 # Introduction:<br>
-This is a case study done on witter Classification Of Nepal Earthquake Tweets dataset.
+This is a case study done Classification Of Nepal Earthquake Tweets.
 ### Data Fields Explanation
 The Twitter Classification Of Nepal Earthquake Tweets dataset consists of 18226 Tweet Entries. This Dataset consists of a Text data (Train.txt)(We need to convert it first into csv data (Tweets.csv)). The columns in the table are:
 <ol>
